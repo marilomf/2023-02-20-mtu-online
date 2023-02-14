@@ -233,7 +233,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information.  Please contact <a href='mailto:lebrown@mtu.edu'>Laura for logistics questions.
+  for more information.  Please contact <a href='mailto:lebrown@mtu.edu'>Laura</a> for logistics questions.
 </p>
 
 <p id="roles">
